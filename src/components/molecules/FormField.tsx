@@ -1,4 +1,4 @@
-import { InputForm } from '../atoms/inputForm';
+import { InputForm } from '../atoms/InputForm';
 import { SelectForm } from '../atoms/SelectForm';
 import { TextAreaForm } from '../atoms/TextAreaForm';
 
